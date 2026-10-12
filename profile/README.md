@@ -40,7 +40,7 @@ End-to-end manual testing for a flight-booking application. Includes 37 test cas
 
 ### [EduShop QA Testing](https://github.com/QA-Dalil/EduShop-QA-Testing)
 
-Manual and API testing for an e-commerce application. The work covers Jira user stories and defects, Zephyr test management, Postman API checks, and PostgreSQL validation of dashboard figures.
+Manual and API testing for an e-commerce application across 9 epics and 32 user stories. The project includes 46 manual test cases in Zephyr, 151 API test cases covering 8 resources and 32 endpoints, and 37 documented Jira bugs (22 manual and 15 API). Postman tests and PostgreSQL queries support API and dashboard validation.
 
 ### [PostgreSQL Database Testing](https://github.com/QA-Dalil/PostgreSQL-Database-Testing)
 

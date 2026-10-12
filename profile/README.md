@@ -10,6 +10,7 @@ I document my QA work from the first requirement to the final test result: plann
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira">
   <a href="https://smartbear.com/product/zephyr/"><img src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/807039/ZephyrEssential_Full-CLRRGB-6e8f6f45-0c04-4a06-953e-c5910c39262c.png" alt="Zephyr Essential" height="20"></a>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/pgAdmin-336791?style=flat-square" alt="pgAdmin">
 </p>
@@ -18,8 +19,6 @@ I document my QA work from the first requirement to the final test result: plann
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/CSV-217346?style=flat-square" alt="CSV">
 </p>
 
 </div>
@@ -51,9 +50,9 @@ Database QA work for an online learning platform. Includes a reproducible schema
 
 - **Testing:** functional testing, test-case design, exploratory testing, boundary-value testing, defect lifecycle, and requirements traceability. I also study SDLC, STLC, and non-functional testing concepts.
 - **Test management:** Jira, Zephyr Essential, test plans, execution reports, and traceability matrices.
-- **API and data:** Postman, PostgreSQL, pgAdmin, SQL filtering and sorting, joins, grouping, aggregates, and data validation.
+- **API and data:** Postman, Swagger, PostgreSQL, pgAdmin, SQL filtering and sorting, joins, grouping, aggregates, and data validation.
 - **Frontend foundations:** HTML, CSS, JavaScript, web forms, responsive design, and client-side validation concepts.
-- **Everyday workflow:** Git, GitHub, VS Code, Docker, Excel, and CSV.
+- **Everyday workflow:** Git, GitHub, VS Code, and Docker.
 
 ---
 

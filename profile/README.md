@@ -46,13 +46,17 @@ Manual and API testing for an e-commerce application across 9 epics and 32 user 
 
 JMeter load test of the new-customer journey, from registration and product browsing through checkout and logout. Includes CSV-driven data for 10 users, the test plan, execution results, and an HTML performance dashboard. The verified run completed with 0 failed samples.
 
+### [EduShop Selenium Java Automation](https://github.com/QA-Dalil/EduShop-Selenium-Java-Automation)
+
+Functional browser tests for registration, login, catalog browsing, search, wishlist, cart, checkout, orders, and logout. Built with Selenium WebDriver, Java, JUnit 5, and Maven; all 7 tests passed in the verified local run.
+
 ### [PostgreSQL Database Testing](https://github.com/QA-Dalil/PostgreSQL-Database-Testing)
 
 Database QA work for an online learning platform. Includes a reproducible schema and sample data, analytical SQL queries, constraint checks, test cases, and execution documentation.
 
 ## Skills and tools
 
-- **Testing:** functional testing, test-case design, exploratory testing, boundary-value testing, defect lifecycle, and requirements traceability. I also study SDLC, STLC, and non-functional testing concepts.
+- **Testing:** functional testing, Selenium browser automation with Java and JUnit, test-case design, exploratory testing, boundary-value testing, defect lifecycle, and requirements traceability. I also study SDLC, STLC, and non-functional testing concepts.
 - **Test management:** Jira, Zephyr Essential, test plans, execution reports, and traceability matrices.
 - **API and data:** Postman, Swagger, PostgreSQL, pgAdmin, SQL filtering and sorting, joins, grouping, aggregates, and data validation.
 - **Frontend foundations:** HTML, CSS, JavaScript, web forms, responsive design, and client-side validation concepts.

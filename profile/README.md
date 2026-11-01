@@ -42,6 +42,10 @@ End-to-end manual testing for a flight-booking application. Includes 37 test cas
 
 Manual and API testing for an e-commerce application across 9 epics and 32 user stories. The project includes 46 manual test cases in Zephyr, 151 API test cases covering 8 resources and 32 endpoints, and 37 documented Jira bugs (22 manual and 15 API). Postman tests and PostgreSQL queries support API and dashboard validation.
 
+### [EduShop JMeter Performance Test](https://github.com/QA-Dalil/EduShop-JMeter-Performance-Test)
+
+JMeter load test of the new-customer journey, from registration and product browsing through checkout and logout. Includes CSV-driven data for 10 users, the test plan, execution results, and an HTML performance dashboard. The verified run completed with 0 failed samples.
+
 ### [PostgreSQL Database Testing](https://github.com/QA-Dalil/PostgreSQL-Database-Testing)
 
 Database QA work for an online learning platform. Includes a reproducible schema and sample data, analytical SQL queries, constraint checks, test cases, and execution documentation.

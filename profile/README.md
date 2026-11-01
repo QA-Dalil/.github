@@ -20,6 +20,14 @@ I document my QA work from the first requirement to the final test result: plann
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square" alt="JUnit 5">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" alt="Apache JMeter">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
 
 </div>
 
@@ -48,7 +56,7 @@ JMeter load test of the new-customer journey, from registration and product brow
 
 ### [EduShop Selenium Java Automation](https://github.com/QA-Dalil/EduShop-Selenium-Java-Automation)
 
-Functional browser tests for registration, login, catalog browsing, search, wishlist, cart, checkout, orders, and logout. Built with Selenium WebDriver, Java, JUnit 5, and Maven; all 7 tests passed in the verified local run.
+Functional browser tests for registration, login, catalog browsing, search, wishlist, cart, checkout, orders, and logout. Built with Selenium WebDriver, Java, JUnit 5, and Maven; all 17 tests passed in the verified local run.
 
 ### [PostgreSQL Database Testing](https://github.com/QA-Dalil/PostgreSQL-Database-Testing)
 
